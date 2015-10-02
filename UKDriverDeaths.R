@@ -1,7 +1,7 @@
 ###########################################################
-# Seatbelts from "Road Casualties in Great Britain 1969¨C84"
+# Seatbelts from "Road Casualties in Great Britain 1969Â¨C84"
 # Laurence & Claire
-# Sep. 25th, 2015
+# Finalized at Oct. 2nd, 2015
 ###########################################################
 
 
