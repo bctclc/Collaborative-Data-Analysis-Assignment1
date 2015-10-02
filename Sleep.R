@@ -43,3 +43,13 @@ hist(sleep_controlgroup$extra,
 hist(sleep_experimentgroup$extra, col=rgb(0,0,1,0.5), add=T)
 library(ggplot2)
 #investigate the facet_wrap command
+
+# Investigating whether the difference between groups 
+# could have been caused by random sampling error
+boxplot(extra~group, sleep,
+# The first argument of the function indicates the variable used
+# from the data frame. By using ~ one can split up the variable according 
+# to another variable (e.g. group).
+        xlab = "Extra hours of sleep", 
+        ylab = "Group (1=control)"
+        )
