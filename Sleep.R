@@ -22,8 +22,8 @@ range(sleep$extra)
 #find the mean
 summary(sleep$extra)
 
-#use a dynamic-link to Claire's file
-data(Collaborative-Data-Analysis-Assignment1/Sleep.R)
+#use a dynamic-link to Claire's file:
+source(UKDriverDeaths.R)
 
 
 
