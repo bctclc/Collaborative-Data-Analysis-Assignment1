@@ -8,6 +8,6 @@ Sleep.R contains the commands to source "Student's Sleep Data", to describe the 
 
 UKDriverDeaths.R contains the commands to source "UK Driver Deaths", to describe the central tendency and variance of number of deaths and percentage of deaths, and to compare the fluctutions of the two variables using line charts.
 
-
-
+## Comments and Suggestions by Daniel Salgado and Lars Mehwald
+Laurence and Claire thank you very much for shareing your repository with us. We hope to contribute substantially to your project. Good Luck! 
 
