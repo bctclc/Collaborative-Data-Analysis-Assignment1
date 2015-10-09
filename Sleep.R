@@ -53,3 +53,7 @@ boxplot(extra~group, sleep,
         xlab = "Extra hours of sleep", 
         ylab = "Group (1=control)"
         )
+
+
+#Notes: If you take the 'raw' version of this page and head to rawgit.com then it will convert your raw file into proper 
+#content-type format 
